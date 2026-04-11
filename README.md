@@ -21,8 +21,6 @@
 
 ###
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriellmatos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Bem%20vindo%20ao%20meu&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
