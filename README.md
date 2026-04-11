@@ -23,9 +23,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Bem%20vindo%20ao%20meu&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GabriellOliveira-7/GabriellOliveira-7/output/snake.svg" alt="Snake animation" />
-
-###
